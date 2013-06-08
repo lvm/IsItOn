@@ -1,0 +1,15 @@
+Is It On?
+A *clever* way to know if our android device is on.
+
+How to build it:
+
+
+Make sure you already have PhoneGap, the Android SDK and an AVD properly configured with Debug Mode On.
+
+$ $ANDROID_BIN update project -p $ISITON_PATH [--target android-api ]
+$ ant debug install
+
+
+Images by:
+       http://openclipart.org/detail/129565/simple-power-by-augustoschwartz
+       http://openclipart.org/detail/10833/green-tick-by-ryan_taylor
