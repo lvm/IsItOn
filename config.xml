@@ -4,12 +4,19 @@
         id        = "com.lvm.isiton"
         versionCode="10" 
         version   = "1.0.0">
+
+  <gap:splash src="splash.png" gap:platform="android" />
+  <preference name="permissions" value="none"/>
+  <preference name="phonegap-version" value="2.7.0" />
+
   <name>Is is on?</name>
+
   <description>
     A clever way to know if our device is on.
   </description>
+
   <author href="http://github.com/lvm" email="lavaramano@gmail.com">
     Mauro
   </author>
-  <preference name="permissions" value="none"/>
+
 </widget>
