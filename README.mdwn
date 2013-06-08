@@ -13,3 +13,6 @@ Make sure you already have PhoneGap, the Android SDK and an AVD properly configu
 Images by:
 * http://openclipart.org/detail/129565/simple-power-by-augustoschwartz
 * http://openclipart.org/detail/10833/green-tick-by-ryan_taylor
+
+
+License: BSD-2
